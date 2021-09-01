@@ -1,2 +1,2 @@
 # Elvui-Profiles
-TBC Classic Elvui Profiles for 
+TBC Classic Profiles for Pumpers
