@@ -1,5 +1,6 @@
 *REQUIRED ADDONS*
---------
+------------------
+
 AngryAssignments-v1.14.0tbc            -> https://www.curseforge.com/wow/addons/angry-assignments
 
 ArkInventory-3.09.49-BurningCrusade    -> https://www.curseforge.com/wow/addons/ark-inventory
