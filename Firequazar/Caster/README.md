@@ -5,27 +5,40 @@
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/Pumpers-Inc/Profiles)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Pumpers-Inc/Profiles)
 
-## REQUIRED ADDONS
+# REQUIRED ADDONS
 
 
-AngryAssignments           -> https://www.curseforge.com/wow/addons/angry-assignments
+## AngryAssignments           
+https://www.curseforge.com/wow/addons/angry-assignments
 
-ArkInventory               -> https://www.curseforge.com/wow/addons/ark-inventory
+## ArkInventory
 
-DBM                        -> https://www.curseforge.com/wow/addons/deadly-boss-mods
+https://www.curseforge.com/wow/addons/ark-inventory
 
-Details                    -> https://www.curseforge.com/wow/addons/details
+https://github.com/arkayenro/arkinventory/wiki
 
-elvui                      -> https://www.tukui.org/classic-tbc-addons.php?download=2
+[![Watch the video](https://img.youtube.com/vi/reZ5I3YSZoc/maxresdefault.jpg)](https://youtu.be/reZ5I3YSZoc)
 
-Exorsus-Raid-Tools         -> https://www.curseforge.com/wow/addons/exorsus-raid-tools
+## DBM
+https://www.curseforge.com/wow/addons/deadly-boss-mods
 
-Konfer Suicide Kings (KSK) -> https://www.curseforge.com/wow/addons/ksk-classic
+## Details
+https://www.curseforge.com/wow/addons/details
 
-Attune                     -> https://www.curseforge.com/wow/addons/attune
+## elvui
+https://www.tukui.org/classic-tbc-addons.php?download=2
+
+## Exorsus-Raid-Tools
+https://www.curseforge.com/wow/addons/exorsus-raid-tools
+
+## Konfer Suicide Kings (KSK)
+https://www.curseforge.com/wow/addons/ksk-classic
+
+## Attune
+ https://www.curseforge.com/wow/addons/attune
 
 
-## ScreenShots
+# ScreenShots
 <a href="./Pictures/Screenshot 20from%202021-08-31%2021-09-55.png">
 <img src="./Pictures/Screenshot%20from%202021-08-31%2021-09-55.png" align="right" width="48.5%">
 <a href="./Pictures/Screenshot from 2021-08-31 21-26-40.png">
